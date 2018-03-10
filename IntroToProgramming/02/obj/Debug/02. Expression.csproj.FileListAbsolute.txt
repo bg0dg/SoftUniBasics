@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\IntroToProgramming\02\bin\Debug\02.exe.config
+E:\SoftUni\source\repos\IntroToProgramming\02\bin\Debug\02.exe
+E:\SoftUni\source\repos\IntroToProgramming\02\bin\Debug\02.pdb
+E:\SoftUni\source\repos\IntroToProgramming\02\obj\Debug\02. Expression.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\IntroToProgramming\02\obj\Debug\02.exe
+E:\SoftUni\source\repos\IntroToProgramming\02\obj\Debug\02.pdb

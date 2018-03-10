@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Advanced-Loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.exe.config
+E:\SoftUni\source\repos\Advanced-Loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.exe
+E:\SoftUni\source\repos\Advanced-Loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.pdb
+E:\SoftUni\source\repos\Advanced-Loops\13. Number Pyramid\obj\Debug\13. Number Pyramid.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Advanced-Loops\13. Number Pyramid\obj\Debug\13. Number Pyramid.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Advanced-Loops\13. Number Pyramid\obj\Debug\_13.Number_Pyramid.exe
+E:\SoftUni\source\repos\Advanced-Loops\13. Number Pyramid\obj\Debug\_13.Number_Pyramid.pdb

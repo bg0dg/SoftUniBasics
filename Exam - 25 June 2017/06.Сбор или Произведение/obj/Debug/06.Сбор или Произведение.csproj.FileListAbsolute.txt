@@ -1,0 +1,7 @@
+C:\Users\DIG\source\repos\Exam - 25 June 2017\06.Сбор или Произведение\bin\Debug\06.Сбор или Произведение.exe.config
+C:\Users\DIG\source\repos\Exam - 25 June 2017\06.Сбор или Произведение\bin\Debug\06.Сбор или Произведение.exe
+C:\Users\DIG\source\repos\Exam - 25 June 2017\06.Сбор или Произведение\bin\Debug\06.Сбор или Произведение.pdb
+C:\Users\DIG\source\repos\Exam - 25 June 2017\06.Сбор или Произведение\obj\Debug\06.Сбор или Произведение.csprojResolveAssemblyReference.cache
+C:\Users\DIG\source\repos\Exam - 25 June 2017\06.Сбор или Произведение\obj\Debug\06.Сбор или Произведение.csproj.CoreCompileInputs.cache
+C:\Users\DIG\source\repos\Exam - 25 June 2017\06.Сбор или Произведение\obj\Debug\06.Сбор или Произведение.exe
+C:\Users\DIG\source\repos\Exam - 25 June 2017\06.Сбор или Произведение\obj\Debug\06.Сбор или Произведение.pdb

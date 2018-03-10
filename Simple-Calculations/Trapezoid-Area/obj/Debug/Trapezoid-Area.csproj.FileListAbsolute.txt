@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple-Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
+E:\SoftUni\source\repos\Simple-Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
+E:\SoftUni\source\repos\Simple-Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
+E:\SoftUni\source\repos\Simple-Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
+E:\SoftUni\source\repos\Simple-Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb
+E:\SoftUni\source\repos\Simple-Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.csprojResolveAssemblyReference.cache

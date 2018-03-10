@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple-Conditions\Excellent-Result\bin\Debug\Excellent-Result.exe.config
+E:\SoftUni\source\repos\Simple-Conditions\Excellent-Result\bin\Debug\Excellent-Result.exe
+E:\SoftUni\source\repos\Simple-Conditions\Excellent-Result\bin\Debug\Excellent-Result.pdb
+E:\SoftUni\source\repos\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.exe
+E:\SoftUni\source\repos\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.pdb

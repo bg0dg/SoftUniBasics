@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple-Conditions\Num_to_word_1_9\bin\Debug\Num_to_word_1_9.exe.config
+E:\SoftUni\source\repos\Simple-Conditions\Num_to_word_1_9\bin\Debug\Num_to_word_1_9.exe
+E:\SoftUni\source\repos\Simple-Conditions\Num_to_word_1_9\bin\Debug\Num_to_word_1_9.pdb
+E:\SoftUni\source\repos\Simple-Conditions\Num_to_word_1_9\obj\Debug\Num_to_word_1_9.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple-Conditions\Num_to_word_1_9\obj\Debug\Num_to_word_1_9.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Conditions\Num_to_word_1_9\obj\Debug\Num_to_word_1_9.exe
+E:\SoftUni\source\repos\Simple-Conditions\Num_to_word_1_9\obj\Debug\Num_to_word_1_9.pdb

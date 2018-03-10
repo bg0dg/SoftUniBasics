@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple-Calculations\Radians to Degrees\bin\Debug\Radians to Degrees.exe.config
+E:\SoftUni\source\repos\Simple-Calculations\Radians to Degrees\bin\Debug\Radians to Degrees.exe
+E:\SoftUni\source\repos\Simple-Calculations\Radians to Degrees\bin\Debug\Radians to Degrees.pdb
+E:\SoftUni\source\repos\Simple-Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple-Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.exe
+E:\SoftUni\source\repos\Simple-Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.pdb

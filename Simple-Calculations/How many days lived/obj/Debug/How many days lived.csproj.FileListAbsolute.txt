@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived\bin\Debug\How many days lived.exe.config
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived\bin\Debug\How many days lived.exe
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived\bin\Debug\How many days lived.pdb
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived\obj\Debug\How many days lived.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived\obj\Debug\How many days lived.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived\obj\Debug\How many days lived.exe
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived\obj\Debug\How many days lived.pdb

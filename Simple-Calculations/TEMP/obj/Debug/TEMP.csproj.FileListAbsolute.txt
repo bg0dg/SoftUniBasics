@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple-Calculations\TEMP\bin\Debug\TEMP.exe.config
+E:\SoftUni\source\repos\Simple-Calculations\TEMP\bin\Debug\TEMP.exe
+E:\SoftUni\source\repos\Simple-Calculations\TEMP\bin\Debug\TEMP.pdb
+E:\SoftUni\source\repos\Simple-Calculations\TEMP\obj\Debug\TEMP.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Calculations\TEMP\obj\Debug\TEMP.exe
+E:\SoftUni\source\repos\Simple-Calculations\TEMP\obj\Debug\TEMP.pdb
+E:\SoftUni\source\repos\Simple-Calculations\TEMP\obj\Debug\TEMP.csprojResolveAssemblyReference.cache

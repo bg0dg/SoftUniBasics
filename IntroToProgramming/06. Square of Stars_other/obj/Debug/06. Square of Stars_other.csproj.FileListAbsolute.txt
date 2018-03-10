@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\IntroToProgramming\06. Square of Stars_other\bin\Debug\_06.Square_of_Stars_other.exe.config
+E:\SoftUni\source\repos\IntroToProgramming\06. Square of Stars_other\bin\Debug\_06.Square_of_Stars_other.exe
+E:\SoftUni\source\repos\IntroToProgramming\06. Square of Stars_other\bin\Debug\_06.Square_of_Stars_other.pdb
+E:\SoftUni\source\repos\IntroToProgramming\06. Square of Stars_other\obj\Debug\06. Square of Stars_other.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\IntroToProgramming\06. Square of Stars_other\obj\Debug\_06.Square_of_Stars_other.exe
+E:\SoftUni\source\repos\IntroToProgramming\06. Square of Stars_other\obj\Debug\_06.Square_of_Stars_other.pdb
+E:\SoftUni\source\repos\IntroToProgramming\06. Square of Stars_other\obj\Debug\06. Square of Stars_other.csprojResolveAssemblyReference.cache

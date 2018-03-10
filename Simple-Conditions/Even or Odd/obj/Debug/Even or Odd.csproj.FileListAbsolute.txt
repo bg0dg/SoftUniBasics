@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Simple-Conditions\Even or Odd\bin\Debug\Even or Odd.exe.config
+E:\SoftUni\source\repos\Simple-Conditions\Even or Odd\bin\Debug\Even or Odd.exe
+E:\SoftUni\source\repos\Simple-Conditions\Even or Odd\bin\Debug\Even or Odd.pdb
+E:\SoftUni\source\repos\Simple-Conditions\Even or Odd\obj\Debug\Even or Odd.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Conditions\Even or Odd\obj\Debug\Even or Odd.exe
+E:\SoftUni\source\repos\Simple-Conditions\Even or Odd\obj\Debug\Even or Odd.pdb

@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Drawing Figures with Loops\07. Christmas Tree\bin\Debug\_07.Christmas_Tree.exe.config
+E:\SoftUni\source\repos\Drawing Figures with Loops\07. Christmas Tree\bin\Debug\_07.Christmas_Tree.exe
+E:\SoftUni\source\repos\Drawing Figures with Loops\07. Christmas Tree\bin\Debug\_07.Christmas_Tree.pdb
+E:\SoftUni\source\repos\Drawing Figures with Loops\07. Christmas Tree\obj\Debug\07. Christmas Tree.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Drawing Figures with Loops\07. Christmas Tree\obj\Debug\_07.Christmas_Tree.exe
+E:\SoftUni\source\repos\Drawing Figures with Loops\07. Christmas Tree\obj\Debug\_07.Christmas_Tree.pdb
+E:\SoftUni\source\repos\Drawing Figures with Loops\07. Christmas Tree\obj\Debug\07. Christmas Tree.csprojResolveAssemblyReference.cache

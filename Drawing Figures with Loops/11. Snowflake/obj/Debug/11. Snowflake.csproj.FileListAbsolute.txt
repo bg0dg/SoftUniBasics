@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Drawing Figures with Loops\11. Snowflake\bin\Debug\_11.Snowflake.exe.config
+E:\SoftUni\source\repos\Drawing Figures with Loops\11. Snowflake\bin\Debug\_11.Snowflake.exe
+E:\SoftUni\source\repos\Drawing Figures with Loops\11. Snowflake\bin\Debug\_11.Snowflake.pdb
+E:\SoftUni\source\repos\Drawing Figures with Loops\11. Snowflake\obj\Debug\11. Snowflake.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Drawing Figures with Loops\11. Snowflake\obj\Debug\11. Snowflake.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Drawing Figures with Loops\11. Snowflake\obj\Debug\_11.Snowflake.exe
+E:\SoftUni\source\repos\Drawing Figures with Loops\11. Snowflake\obj\Debug\_11.Snowflake.pdb

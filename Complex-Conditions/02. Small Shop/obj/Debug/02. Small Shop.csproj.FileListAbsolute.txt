@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Complex-Conditions\02. Small Shop\obj\Debug\02. Small Shop.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Complex-Conditions\02. Small Shop\bin\Debug\_02.Small_Shop.exe.config
+E:\SoftUni\source\repos\Complex-Conditions\02. Small Shop\bin\Debug\_02.Small_Shop.exe
+E:\SoftUni\source\repos\Complex-Conditions\02. Small Shop\bin\Debug\_02.Small_Shop.pdb
+E:\SoftUni\source\repos\Complex-Conditions\02. Small Shop\obj\Debug\_02.Small_Shop.exe
+E:\SoftUni\source\repos\Complex-Conditions\02. Small Shop\obj\Debug\_02.Small_Shop.pdb
+E:\SoftUni\source\repos\Complex-Conditions\02. Small Shop\obj\Debug\02. Small Shop.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple-Conditions\Number 0 to 100 to Text\bin\Debug\Number 0 to 100 to Text.exe.config
+E:\SoftUni\source\repos\Simple-Conditions\Number 0 to 100 to Text\bin\Debug\Number 0 to 100 to Text.exe
+E:\SoftUni\source\repos\Simple-Conditions\Number 0 to 100 to Text\bin\Debug\Number 0 to 100 to Text.pdb
+E:\SoftUni\source\repos\Simple-Conditions\Number 0 to 100 to Text\obj\Debug\Number 0 to 100 to Text.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple-Conditions\Number 0 to 100 to Text\obj\Debug\Number 0 to 100 to Text.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Conditions\Number 0 to 100 to Text\obj\Debug\Number 0 to 100 to Text.exe
+E:\SoftUni\source\repos\Simple-Conditions\Number 0 to 100 to Text\obj\Debug\Number 0 to 100 to Text.pdb

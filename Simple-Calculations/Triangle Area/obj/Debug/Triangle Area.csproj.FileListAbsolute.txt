@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple-Calculations\Triangle Area\bin\Debug\Triangle Area.exe.config
+E:\SoftUni\source\repos\Simple-Calculations\Triangle Area\bin\Debug\Triangle Area.exe
+E:\SoftUni\source\repos\Simple-Calculations\Triangle Area\bin\Debug\Triangle Area.pdb
+E:\SoftUni\source\repos\Simple-Calculations\Triangle Area\obj\Debug\Triangle Area.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple-Calculations\Triangle Area\obj\Debug\Triangle Area.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Calculations\Triangle Area\obj\Debug\Triangle Area.exe
+E:\SoftUni\source\repos\Simple-Calculations\Triangle Area\obj\Debug\Triangle Area.pdb

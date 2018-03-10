@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Exam - 05 November 2017\05.Java_second\bin\Debug\05.Java_second.exe.config
+E:\SoftUni\source\repos\Exam - 05 November 2017\05.Java_second\bin\Debug\05.Java_second.exe
+E:\SoftUni\source\repos\Exam - 05 November 2017\05.Java_second\bin\Debug\05.Java_second.pdb
+E:\SoftUni\source\repos\Exam - 05 November 2017\05.Java_second\obj\Debug\05.Java_second.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Exam - 05 November 2017\05.Java_second\obj\Debug\05.Java_second.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Exam - 05 November 2017\05.Java_second\obj\Debug\05.Java_second.exe
+E:\SoftUni\source\repos\Exam - 05 November 2017\05.Java_second\obj\Debug\05.Java_second.pdb

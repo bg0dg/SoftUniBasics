@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe.config
+E:\SoftUni\source\repos\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe
+E:\SoftUni\source\repos\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.pdb
+E:\SoftUni\source\repos\Simple Loops\03. Latin Letters\obj\Debug\03. Latin Letters.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple Loops\03. Latin Letters\obj\Debug\03. Latin Letters.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.exe
+E:\SoftUni\source\repos\Simple Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Drawing Figures with Loops\04. Triangle of Dollars\bin\Debug\_04.Triangle_of_Dollars.exe.config
+E:\SoftUni\source\repos\Drawing Figures with Loops\04. Triangle of Dollars\bin\Debug\_04.Triangle_of_Dollars.exe
+E:\SoftUni\source\repos\Drawing Figures with Loops\04. Triangle of Dollars\bin\Debug\_04.Triangle_of_Dollars.pdb
+E:\SoftUni\source\repos\Drawing Figures with Loops\04. Triangle of Dollars\obj\Debug\04. Triangle of Dollars.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Drawing Figures with Loops\04. Triangle of Dollars\obj\Debug\_04.Triangle_of_Dollars.exe
+E:\SoftUni\source\repos\Drawing Figures with Loops\04. Triangle of Dollars\obj\Debug\_04.Triangle_of_Dollars.pdb

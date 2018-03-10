@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Simple-Calculations\Inches-to- Centimeters\bin\Debug\Inches-to- Centimeters.exe.config
+E:\SoftUni\source\repos\Simple-Calculations\Inches-to- Centimeters\bin\Debug\Inches-to- Centimeters.exe
+E:\SoftUni\source\repos\Simple-Calculations\Inches-to- Centimeters\bin\Debug\Inches-to- Centimeters.pdb
+E:\SoftUni\source\repos\Simple-Calculations\Inches-to- Centimeters\obj\Debug\Inches-to- Centimeters.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Calculations\Inches-to- Centimeters\obj\Debug\Inches-to- Centimeters.exe
+E:\SoftUni\source\repos\Simple-Calculations\Inches-to- Centimeters\obj\Debug\Inches-to- Centimeters.pdb

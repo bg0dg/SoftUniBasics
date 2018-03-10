@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple-Conditions\Time plus 15 Minutes\bin\Debug\Time plus 15 Minutes.exe.config
+E:\SoftUni\source\repos\Simple-Conditions\Time plus 15 Minutes\bin\Debug\Time plus 15 Minutes.exe
+E:\SoftUni\source\repos\Simple-Conditions\Time plus 15 Minutes\bin\Debug\Time plus 15 Minutes.pdb
+E:\SoftUni\source\repos\Simple-Conditions\Time plus 15 Minutes\obj\Debug\Time plus 15 Minutes.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple-Conditions\Time plus 15 Minutes\obj\Debug\Time plus 15 Minutes.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Conditions\Time plus 15 Minutes\obj\Debug\Time plus 15 Minutes.exe
+E:\SoftUni\source\repos\Simple-Conditions\Time plus 15 Minutes\obj\Debug\Time plus 15 Minutes.pdb

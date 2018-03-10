@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Simple Loops\01. Numbers from 1 to 100\bin\Debug\_01.Numbers_from_1_to_100.exe.config
+E:\SoftUni\source\repos\Simple Loops\01. Numbers from 1 to 100\bin\Debug\_01.Numbers_from_1_to_100.exe
+E:\SoftUni\source\repos\Simple Loops\01. Numbers from 1 to 100\bin\Debug\_01.Numbers_from_1_to_100.pdb
+E:\SoftUni\source\repos\Simple Loops\01. Numbers from 1 to 100\obj\Debug\01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple Loops\01. Numbers from 1 to 100\obj\Debug\_01.Numbers_from_1_to_100.exe
+E:\SoftUni\source\repos\Simple Loops\01. Numbers from 1 to 100\obj\Debug\_01.Numbers_from_1_to_100.pdb

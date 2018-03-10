@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Exam_17.09.17\02.Three brothers\bin\Debug\02.Three brothers.exe.config
+E:\SoftUni\source\repos\Exam_17.09.17\02.Three brothers\bin\Debug\02.Three brothers.exe
+E:\SoftUni\source\repos\Exam_17.09.17\02.Three brothers\bin\Debug\02.Three brothers.pdb
+E:\SoftUni\source\repos\Exam_17.09.17\02.Three brothers\obj\Debug\02.Three brothers.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Exam_17.09.17\02.Three brothers\obj\Debug\02.Three brothers.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Exam_17.09.17\02.Three brothers\obj\Debug\02.Three brothers.exe
+E:\SoftUni\source\repos\Exam_17.09.17\02.Three brothers\obj\Debug\02.Three brothers.pdb

@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Advanced-Loops\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.exe.config
+E:\SoftUni\source\repos\Advanced-Loops\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.exe
+E:\SoftUni\source\repos\Advanced-Loops\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.pdb
+E:\SoftUni\source\repos\Advanced-Loops\11. Enter Even Number\obj\Debug\11. Enter Even Number.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Advanced-Loops\11. Enter Even Number\obj\Debug\11. Enter Even Number.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Advanced-Loops\11. Enter Even Number\obj\Debug\_11.Enter_Even_Number.exe
+E:\SoftUni\source\repos\Advanced-Loops\11. Enter Even Number\obj\Debug\_11.Enter_Even_Number.pdb

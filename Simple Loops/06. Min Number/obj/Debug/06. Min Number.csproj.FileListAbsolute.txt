@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Simple Loops\06. Min Number\bin\Debug\_06.Min_Number.exe.config
+E:\SoftUni\source\repos\Simple Loops\06. Min Number\bin\Debug\_06.Min_Number.exe
+E:\SoftUni\source\repos\Simple Loops\06. Min Number\bin\Debug\_06.Min_Number.pdb
+E:\SoftUni\source\repos\Simple Loops\06. Min Number\obj\Debug\06. Min Number.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple Loops\06. Min Number\obj\Debug\_06.Min_Number.exe
+E:\SoftUni\source\repos\Simple Loops\06. Min Number\obj\Debug\_06.Min_Number.pdb

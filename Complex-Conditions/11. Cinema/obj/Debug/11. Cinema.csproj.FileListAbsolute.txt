@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Complex-Conditions\11. Cinema\obj\Debug\11. Cinema.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Complex-Conditions\11. Cinema\obj\Debug\11. Cinema.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Complex-Conditions\11. Cinema\bin\Debug\_11.Cinema.exe.config
+E:\SoftUni\source\repos\Complex-Conditions\11. Cinema\bin\Debug\_11.Cinema.exe
+E:\SoftUni\source\repos\Complex-Conditions\11. Cinema\bin\Debug\_11.Cinema.pdb
+E:\SoftUni\source\repos\Complex-Conditions\11. Cinema\obj\Debug\_11.Cinema.exe
+E:\SoftUni\source\repos\Complex-Conditions\11. Cinema\obj\Debug\_11.Cinema.pdb

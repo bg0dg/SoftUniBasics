@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\03 September 2017\06. Profit\bin\Debug\_06.Profit.exe.config
+E:\SoftUni\source\repos\03 September 2017\06. Profit\bin\Debug\_06.Profit.exe
+E:\SoftUni\source\repos\03 September 2017\06. Profit\bin\Debug\_06.Profit.pdb
+E:\SoftUni\source\repos\03 September 2017\06. Profit\obj\Debug\06. Profit.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\03 September 2017\06. Profit\obj\Debug\06. Profit.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\03 September 2017\06. Profit\obj\Debug\_06.Profit.exe
+E:\SoftUni\source\repos\03 September 2017\06. Profit\obj\Debug\_06.Profit.pdb

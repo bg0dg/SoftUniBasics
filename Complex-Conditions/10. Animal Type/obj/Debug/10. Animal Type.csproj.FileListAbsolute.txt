@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Complex-Conditions\10. Animal Type\bin\Debug\_10.Animal_Type.exe.config
+E:\SoftUni\source\repos\Complex-Conditions\10. Animal Type\bin\Debug\_10.Animal_Type.exe
+E:\SoftUni\source\repos\Complex-Conditions\10. Animal Type\bin\Debug\_10.Animal_Type.pdb
+E:\SoftUni\source\repos\Complex-Conditions\10. Animal Type\obj\Debug\10. Animal Type.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Complex-Conditions\10. Animal Type\obj\Debug\_10.Animal_Type.exe
+E:\SoftUni\source\repos\Complex-Conditions\10. Animal Type\obj\Debug\_10.Animal_Type.pdb

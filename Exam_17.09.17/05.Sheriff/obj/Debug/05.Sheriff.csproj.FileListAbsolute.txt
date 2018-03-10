@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Exam_17.09.17\05.Sheriff\bin\Debug\05.Sheriff.exe.config
+E:\SoftUni\source\repos\Exam_17.09.17\05.Sheriff\bin\Debug\05.Sheriff.exe
+E:\SoftUni\source\repos\Exam_17.09.17\05.Sheriff\bin\Debug\05.Sheriff.pdb
+E:\SoftUni\source\repos\Exam_17.09.17\05.Sheriff\obj\Debug\05.Sheriff.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Exam_17.09.17\05.Sheriff\obj\Debug\05.Sheriff.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Exam_17.09.17\05.Sheriff\obj\Debug\05.Sheriff.exe
+E:\SoftUni\source\repos\Exam_17.09.17\05.Sheriff\obj\Debug\05.Sheriff.pdb

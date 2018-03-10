@@ -1,0 +1,7 @@
+C:\Users\DIG\source\repos\Exam - 7 May 2017\01. Alcohol Market\obj\Debug\01. Alcohol Market.csprojResolveAssemblyReference.cache
+C:\Users\DIG\source\repos\Exam - 7 May 2017\01. Alcohol Market\obj\Debug\01. Alcohol Market.csproj.CoreCompileInputs.cache
+C:\Users\DIG\source\repos\Exam - 7 May 2017\01. Alcohol Market\bin\Debug\_01.Alcohol_Market.exe.config
+C:\Users\DIG\source\repos\Exam - 7 May 2017\01. Alcohol Market\bin\Debug\_01.Alcohol_Market.exe
+C:\Users\DIG\source\repos\Exam - 7 May 2017\01. Alcohol Market\bin\Debug\_01.Alcohol_Market.pdb
+C:\Users\DIG\source\repos\Exam - 7 May 2017\01. Alcohol Market\obj\Debug\_01.Alcohol_Market.exe
+C:\Users\DIG\source\repos\Exam - 7 May 2017\01. Alcohol Market\obj\Debug\_01.Alcohol_Market.pdb

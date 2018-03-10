@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Advanced-Loops\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe.config
+E:\SoftUni\source\repos\Advanced-Loops\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe
+E:\SoftUni\source\repos\Advanced-Loops\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.pdb
+E:\SoftUni\source\repos\Advanced-Loops\04. Even Powers of 2\obj\Debug\04. Even Powers of 2.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Advanced-Loops\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.exe
+E:\SoftUni\source\repos\Advanced-Loops\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.pdb

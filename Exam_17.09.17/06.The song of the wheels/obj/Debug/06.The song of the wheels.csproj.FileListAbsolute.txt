@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Exam_17.09.17\06.The song of the wheels\bin\Debug\06.The song of the wheels.exe.config
+E:\SoftUni\source\repos\Exam_17.09.17\06.The song of the wheels\bin\Debug\06.The song of the wheels.exe
+E:\SoftUni\source\repos\Exam_17.09.17\06.The song of the wheels\bin\Debug\06.The song of the wheels.pdb
+E:\SoftUni\source\repos\Exam_17.09.17\06.The song of the wheels\obj\Debug\06.The song of the wheels.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Exam_17.09.17\06.The song of the wheels\obj\Debug\06.The song of the wheels.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Exam_17.09.17\06.The song of the wheels\obj\Debug\06.The song of the wheels.exe
+E:\SoftUni\source\repos\Exam_17.09.17\06.The song of the wheels\obj\Debug\06.The song of the wheels.pdb

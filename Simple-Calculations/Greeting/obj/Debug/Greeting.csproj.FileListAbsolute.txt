@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Simple-Calculations\Greeting\bin\Debug\Greeting.exe.config
+E:\SoftUni\source\repos\Simple-Calculations\Greeting\bin\Debug\Greeting.exe
+E:\SoftUni\source\repos\Simple-Calculations\Greeting\bin\Debug\Greeting.pdb
+E:\SoftUni\source\repos\Simple-Calculations\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Calculations\Greeting\obj\Debug\Greeting.exe
+E:\SoftUni\source\repos\Simple-Calculations\Greeting\obj\Debug\Greeting.pdb

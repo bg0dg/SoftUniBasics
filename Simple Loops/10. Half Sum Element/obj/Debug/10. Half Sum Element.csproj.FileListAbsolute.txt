@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple Loops\10. Half Sum Element\bin\Debug\_10.Half_Sum_Element.exe.config
+E:\SoftUni\source\repos\Simple Loops\10. Half Sum Element\bin\Debug\_10.Half_Sum_Element.exe
+E:\SoftUni\source\repos\Simple Loops\10. Half Sum Element\bin\Debug\_10.Half_Sum_Element.pdb
+E:\SoftUni\source\repos\Simple Loops\10. Half Sum Element\obj\Debug\10. Half Sum Element.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple Loops\10. Half Sum Element\obj\Debug\10. Half Sum Element.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple Loops\10. Half Sum Element\obj\Debug\_10.Half_Sum_Element.exe
+E:\SoftUni\source\repos\Simple Loops\10. Half Sum Element\obj\Debug\_10.Half_Sum_Element.pdb

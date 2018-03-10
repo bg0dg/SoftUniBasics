@@ -1,0 +1,10 @@
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived desktop\bin\Debug\How many days lived desktop.exe.config
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived desktop\bin\Debug\How many days lived desktop.exe
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived desktop\bin\Debug\How many days lived desktop.pdb
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived desktop\obj\Debug\How many days lived desktop.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived desktop\obj\Debug\How_many_days_lived_desktop.Form1.resources
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived desktop\obj\Debug\How_many_days_lived_desktop.Properties.Resources.resources
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived desktop\obj\Debug\How many days lived desktop.csproj.GenerateResource.Cache
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived desktop\obj\Debug\How many days lived desktop.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived desktop\obj\Debug\How many days lived desktop.exe
+E:\SoftUni\source\repos\Simple-Calculations\How many days lived desktop\obj\Debug\How many days lived desktop.pdb

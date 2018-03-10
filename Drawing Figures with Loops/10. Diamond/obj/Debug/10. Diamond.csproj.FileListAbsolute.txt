@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Drawing Figures with Loops\10. Diamond\bin\Debug\_10.Diamond.exe.config
+E:\SoftUni\source\repos\Drawing Figures with Loops\10. Diamond\bin\Debug\_10.Diamond.exe
+E:\SoftUni\source\repos\Drawing Figures with Loops\10. Diamond\bin\Debug\_10.Diamond.pdb
+E:\SoftUni\source\repos\Drawing Figures with Loops\10. Diamond\obj\Debug\10. Diamond.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Drawing Figures with Loops\10. Diamond\obj\Debug\10. Diamond.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Drawing Figures with Loops\10. Diamond\obj\Debug\_10.Diamond.exe
+E:\SoftUni\source\repos\Drawing Figures with Loops\10. Diamond\obj\Debug\_10.Diamond.pdb

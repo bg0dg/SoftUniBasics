@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Exam_17.09.17\04.Grandpa Stavri\bin\Debug\04.Grandpa Stavri.exe.config
+E:\SoftUni\source\repos\Exam_17.09.17\04.Grandpa Stavri\bin\Debug\04.Grandpa Stavri.exe
+E:\SoftUni\source\repos\Exam_17.09.17\04.Grandpa Stavri\bin\Debug\04.Grandpa Stavri.pdb
+E:\SoftUni\source\repos\Exam_17.09.17\04.Grandpa Stavri\obj\Debug\04.Grandpa Stavri.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Exam_17.09.17\04.Grandpa Stavri\obj\Debug\04.Grandpa Stavri.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Exam_17.09.17\04.Grandpa Stavri\obj\Debug\04.Grandpa Stavri.exe
+E:\SoftUni\source\repos\Exam_17.09.17\04.Grandpa Stavri\obj\Debug\04.Grandpa Stavri.pdb

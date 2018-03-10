@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Advanced-Loops\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.exe.config
+E:\SoftUni\source\repos\Advanced-Loops\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.exe
+E:\SoftUni\source\repos\Advanced-Loops\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.pdb
+E:\SoftUni\source\repos\Advanced-Loops\07. Greatest Common Divisor (CGD)\obj\Debug\07. Greatest Common Divisor (CGD).csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Advanced-Loops\07. Greatest Common Divisor (CGD)\obj\Debug\07. Greatest Common Divisor (CGD).csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Advanced-Loops\07. Greatest Common Divisor (CGD)\obj\Debug\_07.Greatest_Common_Divisor__CGD_.exe
+E:\SoftUni\source\repos\Advanced-Loops\07. Greatest Common Divisor (CGD)\obj\Debug\_07.Greatest_Common_Divisor__CGD_.pdb

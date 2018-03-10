@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\IntroToProgramming\03\obj\Debug\03. Nums1To20.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\IntroToProgramming\03\obj\Debug\03. Nums1To20.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\IntroToProgramming\03\obj\Debug\03.exe
+E:\SoftUni\source\repos\IntroToProgramming\03\obj\Debug\03.pdb
+E:\SoftUni\source\repos\IntroToProgramming\03\bin\Debug\03.exe.config
+E:\SoftUni\source\repos\IntroToProgramming\03\bin\Debug\03.exe
+E:\SoftUni\source\repos\IntroToProgramming\03\bin\Debug\03.pdb

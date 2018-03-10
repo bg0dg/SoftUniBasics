@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple Loops\08. Odd Even Sum\bin\Debug\_08.Odd_Even_Sum.exe.config
+E:\SoftUni\source\repos\Simple Loops\08. Odd Even Sum\bin\Debug\_08.Odd_Even_Sum.exe
+E:\SoftUni\source\repos\Simple Loops\08. Odd Even Sum\bin\Debug\_08.Odd_Even_Sum.pdb
+E:\SoftUni\source\repos\Simple Loops\08. Odd Even Sum\obj\Debug\08. Odd Even Sum.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple Loops\08. Odd Even Sum\obj\Debug\08. Odd Even Sum.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple Loops\08. Odd Even Sum\obj\Debug\_08.Odd_Even_Sum.exe
+E:\SoftUni\source\repos\Simple Loops\08. Odd Even Sum\obj\Debug\_08.Odd_Even_Sum.pdb

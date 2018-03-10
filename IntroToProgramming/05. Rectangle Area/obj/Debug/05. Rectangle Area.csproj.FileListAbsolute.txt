@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\IntroToProgramming\05. Rectangle Area\bin\Debug\_05.Rectangle_Area.exe.config
+E:\SoftUni\source\repos\IntroToProgramming\05. Rectangle Area\bin\Debug\_05.Rectangle_Area.exe
+E:\SoftUni\source\repos\IntroToProgramming\05. Rectangle Area\bin\Debug\_05.Rectangle_Area.pdb
+E:\SoftUni\source\repos\IntroToProgramming\05. Rectangle Area\obj\Debug\05. Rectangle Area.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\IntroToProgramming\05. Rectangle Area\obj\Debug\_05.Rectangle_Area.exe
+E:\SoftUni\source\repos\IntroToProgramming\05. Rectangle Area\obj\Debug\_05.Rectangle_Area.pdb

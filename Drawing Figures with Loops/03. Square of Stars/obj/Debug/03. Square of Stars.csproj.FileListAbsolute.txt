@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Drawing Figures with Loops\03. Square of Stars\obj\Debug\03. Square of Stars.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Drawing Figures with Loops\03. Square of Stars\bin\Debug\_03.Square_of_Stars.exe.config
+E:\SoftUni\source\repos\Drawing Figures with Loops\03. Square of Stars\bin\Debug\_03.Square_of_Stars.exe
+E:\SoftUni\source\repos\Drawing Figures with Loops\03. Square of Stars\bin\Debug\_03.Square_of_Stars.pdb
+E:\SoftUni\source\repos\Drawing Figures with Loops\03. Square of Stars\obj\Debug\_03.Square_of_Stars.exe
+E:\SoftUni\source\repos\Drawing Figures with Loops\03. Square of Stars\obj\Debug\_03.Square_of_Stars.pdb

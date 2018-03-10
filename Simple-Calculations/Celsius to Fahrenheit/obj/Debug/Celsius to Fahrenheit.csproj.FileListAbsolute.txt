@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Simple-Calculations\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe.config
+E:\SoftUni\source\repos\Simple-Calculations\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe
+E:\SoftUni\source\repos\Simple-Calculations\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.pdb
+E:\SoftUni\source\repos\Simple-Calculations\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Calculations\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.exe
+E:\SoftUni\source\repos\Simple-Calculations\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.pdb

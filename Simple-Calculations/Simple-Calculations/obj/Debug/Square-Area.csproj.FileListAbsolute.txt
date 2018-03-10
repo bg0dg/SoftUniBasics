@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple-Calculations\Simple-Calculations\bin\Debug\Simple-Calculations.exe.config
+E:\SoftUni\source\repos\Simple-Calculations\Simple-Calculations\bin\Debug\Simple-Calculations.exe
+E:\SoftUni\source\repos\Simple-Calculations\Simple-Calculations\bin\Debug\Simple-Calculations.pdb
+E:\SoftUni\source\repos\Simple-Calculations\Simple-Calculations\obj\Debug\Square-Area.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple-Calculations\Simple-Calculations\obj\Debug\Square-Area.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Calculations\Simple-Calculations\obj\Debug\Simple-Calculations.exe
+E:\SoftUni\source\repos\Simple-Calculations\Simple-Calculations\obj\Debug\Simple-Calculations.pdb

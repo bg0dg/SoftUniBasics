@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe.config
+E:\SoftUni\source\repos\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe
+E:\SoftUni\source\repos\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.pdb
+E:\SoftUni\source\repos\Simple Loops\07. Left and Right Sum\obj\Debug\07. Left and Right Sum.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple Loops\07. Left and Right Sum\obj\Debug\07. Left and Right Sum.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.exe
+E:\SoftUni\source\repos\Simple Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.pdb

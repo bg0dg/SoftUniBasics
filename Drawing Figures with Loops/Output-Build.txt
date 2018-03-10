@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: 10. Diamond, Configuration: Debug Any CPU ------
+1>  10. Diamond -> E:\SoftUni\source\repos\Drawing Figures with Loops\10. Diamond\bin\Debug\_10.Diamond.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

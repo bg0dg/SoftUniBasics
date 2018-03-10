@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Advanced-Loops\08. Factorial\bin\Debug\_08.Factorial.exe.config
+E:\SoftUni\source\repos\Advanced-Loops\08. Factorial\bin\Debug\_08.Factorial.exe
+E:\SoftUni\source\repos\Advanced-Loops\08. Factorial\bin\Debug\_08.Factorial.pdb
+E:\SoftUni\source\repos\Advanced-Loops\08. Factorial\obj\Debug\08. Factorial.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Advanced-Loops\08. Factorial\obj\Debug\_08.Factorial.exe
+E:\SoftUni\source\repos\Advanced-Loops\08. Factorial\obj\Debug\_08.Factorial.pdb

@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple Loops\09. Vowels Sum\obj\Debug\09. Vowels Sum.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple Loops\09. Vowels Sum\obj\Debug\09. Vowels Sum.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.exe.config
+E:\SoftUni\source\repos\Simple Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.exe
+E:\SoftUni\source\repos\Simple Loops\09. Vowels Sum\bin\Debug\_09.Vowels_Sum.pdb
+E:\SoftUni\source\repos\Simple Loops\09. Vowels Sum\obj\Debug\_09.Vowels_Sum.exe
+E:\SoftUni\source\repos\Simple Loops\09. Vowels Sum\obj\Debug\_09.Vowels_Sum.pdb

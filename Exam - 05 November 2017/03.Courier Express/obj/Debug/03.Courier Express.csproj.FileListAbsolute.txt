@@ -1,0 +1,7 @@
+C:\Users\DIG\source\repos\Exam - 05 November 2017\03.Courier Express\obj\Debug\03.Courier Express.csprojResolveAssemblyReference.cache
+C:\Users\DIG\source\repos\Exam - 05 November 2017\03.Courier Express\obj\Debug\03.Courier Express.csproj.CoreCompileInputs.cache
+C:\Users\DIG\source\repos\Exam - 05 November 2017\03.Courier Express\bin\Debug\03.Courier Express.exe.config
+C:\Users\DIG\source\repos\Exam - 05 November 2017\03.Courier Express\bin\Debug\03.Courier Express.exe
+C:\Users\DIG\source\repos\Exam - 05 November 2017\03.Courier Express\bin\Debug\03.Courier Express.pdb
+C:\Users\DIG\source\repos\Exam - 05 November 2017\03.Courier Express\obj\Debug\03.Courier Express.exe
+C:\Users\DIG\source\repos\Exam - 05 November 2017\03.Courier Express\obj\Debug\03.Courier Express.pdb

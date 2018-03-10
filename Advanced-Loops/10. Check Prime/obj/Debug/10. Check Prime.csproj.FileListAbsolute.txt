@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Advanced-Loops\10. Check Prime\bin\Debug\_10.Check_Prime.exe.config
+E:\SoftUni\source\repos\Advanced-Loops\10. Check Prime\bin\Debug\_10.Check_Prime.exe
+E:\SoftUni\source\repos\Advanced-Loops\10. Check Prime\bin\Debug\_10.Check_Prime.pdb
+E:\SoftUni\source\repos\Advanced-Loops\10. Check Prime\obj\Debug\10. Check Prime.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Advanced-Loops\10. Check Prime\obj\Debug\10. Check Prime.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Advanced-Loops\10. Check Prime\obj\Debug\_10.Check_Prime.exe
+E:\SoftUni\source\repos\Advanced-Loops\10. Check Prime\obj\Debug\_10.Check_Prime.pdb

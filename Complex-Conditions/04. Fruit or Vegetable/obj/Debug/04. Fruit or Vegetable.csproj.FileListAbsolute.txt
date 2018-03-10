@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Complex-Conditions\04. Fruit or Vegetable\obj\Debug\04. Fruit or Vegetable.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Complex-Conditions\04. Fruit or Vegetable\obj\Debug\04. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Complex-Conditions\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.exe.config
+E:\SoftUni\source\repos\Complex-Conditions\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.exe
+E:\SoftUni\source\repos\Complex-Conditions\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.pdb
+E:\SoftUni\source\repos\Complex-Conditions\04. Fruit or Vegetable\obj\Debug\_04.Fruit_or_Vegetable.exe
+E:\SoftUni\source\repos\Complex-Conditions\04. Fruit or Vegetable\obj\Debug\_04.Fruit_or_Vegetable.pdb

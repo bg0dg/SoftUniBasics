@@ -1,0 +1,10 @@
+E:\SoftUni\source\repos\Simple-Calculations\BGN-to-EUR-Converter\bin\Debug\BGN-to-EUR-Converter.exe.config
+E:\SoftUni\source\repos\Simple-Calculations\BGN-to-EUR-Converter\bin\Debug\BGN-to-EUR-Converter.exe
+E:\SoftUni\source\repos\Simple-Calculations\BGN-to-EUR-Converter\bin\Debug\BGN-to-EUR-Converter.pdb
+E:\SoftUni\source\repos\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\BGN-to-EUR-Converter.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\BGN_to_EUR_Converter.FormConverter.resources
+E:\SoftUni\source\repos\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\BGN_to_EUR_Converter.Properties.Resources.resources
+E:\SoftUni\source\repos\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\BGN-to-EUR-Converter.csproj.GenerateResource.Cache
+E:\SoftUni\source\repos\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\BGN-to-EUR-Converter.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\BGN-to-EUR-Converter.exe
+E:\SoftUni\source\repos\Simple-Calculations\BGN-to-EUR-Converter\obj\Debug\BGN-to-EUR-Converter.pdb

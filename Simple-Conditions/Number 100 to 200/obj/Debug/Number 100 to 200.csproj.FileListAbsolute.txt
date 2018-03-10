@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Simple-Conditions\Number 100 to 200\bin\Debug\Number 100 to 200.exe.config
+E:\SoftUni\source\repos\Simple-Conditions\Number 100 to 200\bin\Debug\Number 100 to 200.exe
+E:\SoftUni\source\repos\Simple-Conditions\Number 100 to 200\bin\Debug\Number 100 to 200.pdb
+E:\SoftUni\source\repos\Simple-Conditions\Number 100 to 200\obj\Debug\Number 100 to 200.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Conditions\Number 100 to 200\obj\Debug\Number 100 to 200.exe
+E:\SoftUni\source\repos\Simple-Conditions\Number 100 to 200\obj\Debug\Number 100 to 200.pdb

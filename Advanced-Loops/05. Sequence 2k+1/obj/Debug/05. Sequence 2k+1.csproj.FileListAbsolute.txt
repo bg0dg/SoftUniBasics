@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Advanced-Loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe.config
+E:\SoftUni\source\repos\Advanced-Loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe
+E:\SoftUni\source\repos\Advanced-Loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.pdb
+E:\SoftUni\source\repos\Advanced-Loops\05. Sequence 2k+1\obj\Debug\05. Sequence 2k+1.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Advanced-Loops\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.exe
+E:\SoftUni\source\repos\Advanced-Loops\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.pdb

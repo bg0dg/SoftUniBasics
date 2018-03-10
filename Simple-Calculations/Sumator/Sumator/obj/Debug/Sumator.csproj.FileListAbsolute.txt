@@ -1,0 +1,10 @@
+E:\SoftUni\source\repos\Sumator\Sumator\bin\Debug\Sumator.exe.config
+E:\SoftUni\source\repos\Sumator\Sumator\bin\Debug\Sumator.exe
+E:\SoftUni\source\repos\Sumator\Sumator\bin\Debug\Sumator.pdb
+E:\SoftUni\source\repos\Sumator\Sumator\obj\Debug\Sumator.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Sumator\Sumator\obj\Debug\Sumator.Form1.resources
+E:\SoftUni\source\repos\Sumator\Sumator\obj\Debug\Sumator.Properties.Resources.resources
+E:\SoftUni\source\repos\Sumator\Sumator\obj\Debug\Sumator.csproj.GenerateResource.Cache
+E:\SoftUni\source\repos\Sumator\Sumator\obj\Debug\Sumator.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Sumator\Sumator\obj\Debug\Sumator.exe
+E:\SoftUni\source\repos\Sumator\Sumator\obj\Debug\Sumator.pdb

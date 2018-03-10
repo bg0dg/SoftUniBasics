@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Complex-Conditions\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe.config
+E:\SoftUni\source\repos\Complex-Conditions\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe
+E:\SoftUni\source\repos\Complex-Conditions\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.pdb
+E:\SoftUni\source\repos\Complex-Conditions\03. Point in Rectangle\obj\Debug\03. Point in Rectangle.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Complex-Conditions\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.exe
+E:\SoftUni\source\repos\Complex-Conditions\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.pdb

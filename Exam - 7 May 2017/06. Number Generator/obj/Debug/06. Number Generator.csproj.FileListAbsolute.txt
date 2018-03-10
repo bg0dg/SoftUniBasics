@@ -1,0 +1,7 @@
+C:\Users\DIG\source\repos\Exam - 7 May 2017\06. Number Generator\bin\Debug\_06.Number_Generator.exe.config
+C:\Users\DIG\source\repos\Exam - 7 May 2017\06. Number Generator\bin\Debug\_06.Number_Generator.exe
+C:\Users\DIG\source\repos\Exam - 7 May 2017\06. Number Generator\bin\Debug\_06.Number_Generator.pdb
+C:\Users\DIG\source\repos\Exam - 7 May 2017\06. Number Generator\obj\Debug\06. Number Generator.csprojResolveAssemblyReference.cache
+C:\Users\DIG\source\repos\Exam - 7 May 2017\06. Number Generator\obj\Debug\06. Number Generator.csproj.CoreCompileInputs.cache
+C:\Users\DIG\source\repos\Exam - 7 May 2017\06. Number Generator\obj\Debug\_06.Number_Generator.exe
+C:\Users\DIG\source\repos\Exam - 7 May 2017\06. Number Generator\obj\Debug\_06.Number_Generator.pdb

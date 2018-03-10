@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\IntroToProgramming\04\obj\Debug\04. TriangleOf55Stars.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\IntroToProgramming\04\obj\Debug\04.exe
+E:\SoftUni\source\repos\IntroToProgramming\04\obj\Debug\04.pdb
+E:\SoftUni\source\repos\IntroToProgramming\04\bin\Debug\04.exe.config
+E:\SoftUni\source\repos\IntroToProgramming\04\bin\Debug\04.exe
+E:\SoftUni\source\repos\IntroToProgramming\04\bin\Debug\04.pdb

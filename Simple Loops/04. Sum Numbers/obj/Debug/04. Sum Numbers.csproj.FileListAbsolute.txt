@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe.config
+E:\SoftUni\source\repos\Simple Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe
+E:\SoftUni\source\repos\Simple Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.pdb
+E:\SoftUni\source\repos\Simple Loops\04. Sum Numbers\obj\Debug\04. Sum Numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple Loops\04. Sum Numbers\obj\Debug\04. Sum Numbers.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.exe
+E:\SoftUni\source\repos\Simple Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.pdb

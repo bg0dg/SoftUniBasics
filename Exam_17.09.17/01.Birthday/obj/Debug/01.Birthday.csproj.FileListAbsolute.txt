@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Exam_17.09.17\01.Birthday\bin\Debug\01.Birthday.exe.config
+E:\SoftUni\source\repos\Exam_17.09.17\01.Birthday\bin\Debug\01.Birthday.exe
+E:\SoftUni\source\repos\Exam_17.09.17\01.Birthday\bin\Debug\01.Birthday.pdb
+E:\SoftUni\source\repos\Exam_17.09.17\01.Birthday\obj\Debug\01.Birthday.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Exam_17.09.17\01.Birthday\obj\Debug\01.Birthday.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Exam_17.09.17\01.Birthday\obj\Debug\01.Birthday.exe
+E:\SoftUni\source\repos\Exam_17.09.17\01.Birthday\obj\Debug\01.Birthday.pdb

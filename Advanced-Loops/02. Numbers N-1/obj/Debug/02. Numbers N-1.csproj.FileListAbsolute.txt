@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Advanced-Loops\02. Numbers N-1\bin\Debug\_02.Numbers_N_1.exe.config
+E:\SoftUni\source\repos\Advanced-Loops\02. Numbers N-1\bin\Debug\_02.Numbers_N_1.exe
+E:\SoftUni\source\repos\Advanced-Loops\02. Numbers N-1\bin\Debug\_02.Numbers_N_1.pdb
+E:\SoftUni\source\repos\Advanced-Loops\02. Numbers N-1\obj\Debug\02. Numbers N-1.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Advanced-Loops\02. Numbers N-1\obj\Debug\_02.Numbers_N_1.exe
+E:\SoftUni\source\repos\Advanced-Loops\02. Numbers N-1\obj\Debug\_02.Numbers_N_1.pdb

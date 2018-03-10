@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple Loops\11. Odd_Even Position\bin\Debug\_11.Odd_Even_Position.exe.config
+E:\SoftUni\source\repos\Simple Loops\11. Odd_Even Position\bin\Debug\_11.Odd_Even_Position.exe
+E:\SoftUni\source\repos\Simple Loops\11. Odd_Even Position\bin\Debug\_11.Odd_Even_Position.pdb
+E:\SoftUni\source\repos\Simple Loops\11. Odd_Even Position\obj\Debug\11. Odd_Even Position.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple Loops\11. Odd_Even Position\obj\Debug\11. Odd_Even Position.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple Loops\11. Odd_Even Position\obj\Debug\_11.Odd_Even_Position.exe
+E:\SoftUni\source\repos\Simple Loops\11. Odd_Even Position\obj\Debug\_11.Odd_Even_Position.pdb

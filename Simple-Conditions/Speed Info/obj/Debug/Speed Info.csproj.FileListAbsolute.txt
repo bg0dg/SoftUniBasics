@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Simple-Conditions\Speed Info\bin\Debug\Speed Info.exe.config
+E:\SoftUni\source\repos\Simple-Conditions\Speed Info\bin\Debug\Speed Info.exe
+E:\SoftUni\source\repos\Simple-Conditions\Speed Info\bin\Debug\Speed Info.pdb
+E:\SoftUni\source\repos\Simple-Conditions\Speed Info\obj\Debug\Speed Info.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Conditions\Speed Info\obj\Debug\Speed Info.exe
+E:\SoftUni\source\repos\Simple-Conditions\Speed Info\obj\Debug\Speed Info.pdb

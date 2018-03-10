@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Exam - 23 July 2017\05. Cup\bin\Debug\_05.Cup.exe.config
+E:\SoftUni\source\repos\Exam - 23 July 2017\05. Cup\bin\Debug\_05.Cup.exe
+E:\SoftUni\source\repos\Exam - 23 July 2017\05. Cup\bin\Debug\_05.Cup.pdb
+E:\SoftUni\source\repos\Exam - 23 July 2017\05. Cup\obj\Debug\05. Cup.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Exam - 23 July 2017\05. Cup\obj\Debug\05. Cup.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Exam - 23 July 2017\05. Cup\obj\Debug\_05.Cup.exe
+E:\SoftUni\source\repos\Exam - 23 July 2017\05. Cup\obj\Debug\_05.Cup.pdb

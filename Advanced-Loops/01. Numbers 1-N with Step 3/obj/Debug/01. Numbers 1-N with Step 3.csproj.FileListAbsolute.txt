@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Advanced-Loops\01. Numbers 1-N with Step 3\bin\Debug\_01.Numbers_1_N_with_Step_3.exe.config
+E:\SoftUni\source\repos\Advanced-Loops\01. Numbers 1-N with Step 3\bin\Debug\_01.Numbers_1_N_with_Step_3.exe
+E:\SoftUni\source\repos\Advanced-Loops\01. Numbers 1-N with Step 3\bin\Debug\_01.Numbers_1_N_with_Step_3.pdb
+E:\SoftUni\source\repos\Advanced-Loops\01. Numbers 1-N with Step 3\obj\Debug\01. Numbers 1-N with Step 3.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Advanced-Loops\01. Numbers 1-N with Step 3\obj\Debug\01. Numbers 1-N with Step 3.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Advanced-Loops\01. Numbers 1-N with Step 3\obj\Debug\_01.Numbers_1_N_with_Step_3.exe
+E:\SoftUni\source\repos\Advanced-Loops\01. Numbers 1-N with Step 3\obj\Debug\_01.Numbers_1_N_with_Step_3.pdb

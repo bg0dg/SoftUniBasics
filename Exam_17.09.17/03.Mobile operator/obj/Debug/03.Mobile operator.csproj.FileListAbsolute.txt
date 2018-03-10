@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Exam_17.09.17\03.Mobile operator\bin\Debug\03.Mobile operator.exe.config
+E:\SoftUni\source\repos\Exam_17.09.17\03.Mobile operator\bin\Debug\03.Mobile operator.exe
+E:\SoftUni\source\repos\Exam_17.09.17\03.Mobile operator\bin\Debug\03.Mobile operator.pdb
+E:\SoftUni\source\repos\Exam_17.09.17\03.Mobile operator\obj\Debug\03.Mobile operator.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Exam_17.09.17\03.Mobile operator\obj\Debug\03.Mobile operator.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Exam_17.09.17\03.Mobile operator\obj\Debug\03.Mobile operator.exe
+E:\SoftUni\source\repos\Exam_17.09.17\03.Mobile operator\obj\Debug\03.Mobile operator.pdb

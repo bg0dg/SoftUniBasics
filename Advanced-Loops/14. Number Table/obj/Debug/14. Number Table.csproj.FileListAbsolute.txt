@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Advanced-Loops\14. Number Table\bin\Debug\_14.Number_Table.exe.config
+E:\SoftUni\source\repos\Advanced-Loops\14. Number Table\bin\Debug\_14.Number_Table.exe
+E:\SoftUni\source\repos\Advanced-Loops\14. Number Table\bin\Debug\_14.Number_Table.pdb
+E:\SoftUni\source\repos\Advanced-Loops\14. Number Table\obj\Debug\14. Number Table.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Advanced-Loops\14. Number Table\obj\Debug\14. Number Table.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Advanced-Loops\14. Number Table\obj\Debug\_14.Number_Table.exe
+E:\SoftUni\source\repos\Advanced-Loops\14. Number Table\obj\Debug\_14.Number_Table.pdb

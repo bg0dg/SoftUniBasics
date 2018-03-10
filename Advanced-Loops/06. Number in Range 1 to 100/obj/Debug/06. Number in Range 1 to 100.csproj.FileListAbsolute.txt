@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Advanced-Loops\06. Number in Range 1 to 100\bin\Debug\_06.Number_in_Range_1_to_100.exe.config
+E:\SoftUni\source\repos\Advanced-Loops\06. Number in Range 1 to 100\bin\Debug\_06.Number_in_Range_1_to_100.exe
+E:\SoftUni\source\repos\Advanced-Loops\06. Number in Range 1 to 100\bin\Debug\_06.Number_in_Range_1_to_100.pdb
+E:\SoftUni\source\repos\Advanced-Loops\06. Number in Range 1 to 100\obj\Debug\06. Number in Range 1 to 100.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Advanced-Loops\06. Number in Range 1 to 100\obj\Debug\_06.Number_in_Range_1_to_100.exe
+E:\SoftUni\source\repos\Advanced-Loops\06. Number in Range 1 to 100\obj\Debug\_06.Number_in_Range_1_to_100.pdb
+E:\SoftUni\source\repos\Advanced-Loops\06. Number in Range 1 to 100\obj\Debug\06. Number in Range 1 to 100.csprojResolveAssemblyReference.cache

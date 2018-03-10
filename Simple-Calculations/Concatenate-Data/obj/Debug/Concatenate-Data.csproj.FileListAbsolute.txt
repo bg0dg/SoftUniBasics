@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple-Calculations\Concatenate-Data\bin\Debug\Concatenate-Data.exe.config
+E:\SoftUni\source\repos\Simple-Calculations\Concatenate-Data\bin\Debug\Concatenate-Data.exe
+E:\SoftUni\source\repos\Simple-Calculations\Concatenate-Data\bin\Debug\Concatenate-Data.pdb
+E:\SoftUni\source\repos\Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.exe
+E:\SoftUni\source\repos\Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.pdb
+E:\SoftUni\source\repos\Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.csprojResolveAssemblyReference.cache

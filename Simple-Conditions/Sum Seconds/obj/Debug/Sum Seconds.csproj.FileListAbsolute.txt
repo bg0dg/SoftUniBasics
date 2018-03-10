@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple-Conditions\Sum Seconds\bin\Debug\Sum Seconds.exe.config
+E:\SoftUni\source\repos\Simple-Conditions\Sum Seconds\bin\Debug\Sum Seconds.exe
+E:\SoftUni\source\repos\Simple-Conditions\Sum Seconds\bin\Debug\Sum Seconds.pdb
+E:\SoftUni\source\repos\Simple-Conditions\Sum Seconds\obj\Debug\Sum Seconds.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple-Conditions\Sum Seconds\obj\Debug\Sum Seconds.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Conditions\Sum Seconds\obj\Debug\Sum Seconds.exe
+E:\SoftUni\source\repos\Simple-Conditions\Sum Seconds\obj\Debug\Sum Seconds.pdb

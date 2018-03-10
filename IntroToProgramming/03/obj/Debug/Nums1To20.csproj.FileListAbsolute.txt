@@ -1,0 +1,6 @@
+C:\Users\DIG\source\repos\IntroToProgramming\03\bin\Debug\03.exe.config
+C:\Users\DIG\source\repos\IntroToProgramming\03\bin\Debug\03.exe
+C:\Users\DIG\source\repos\IntroToProgramming\03\bin\Debug\03.pdb
+C:\Users\DIG\source\repos\IntroToProgramming\03\obj\Debug\Nums1To20.csproj.CoreCompileInputs.cache
+C:\Users\DIG\source\repos\IntroToProgramming\03\obj\Debug\03.exe
+C:\Users\DIG\source\repos\IntroToProgramming\03\obj\Debug\03.pdb

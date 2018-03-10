@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple-Calculations\Currency Converter\bin\Debug\Currency Converter.exe.config
+E:\SoftUni\source\repos\Simple-Calculations\Currency Converter\bin\Debug\Currency Converter.exe
+E:\SoftUni\source\repos\Simple-Calculations\Currency Converter\bin\Debug\Currency Converter.pdb
+E:\SoftUni\source\repos\Simple-Calculations\Currency Converter\obj\Debug\Currency Converter.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple-Calculations\Currency Converter\obj\Debug\Currency Converter.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Calculations\Currency Converter\obj\Debug\Currency Converter.exe
+E:\SoftUni\source\repos\Simple-Calculations\Currency Converter\obj\Debug\Currency Converter.pdb

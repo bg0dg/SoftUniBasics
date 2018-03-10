@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Simple-Calculations\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.exe.config
+E:\SoftUni\source\repos\Simple-Calculations\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.exe
+E:\SoftUni\source\repos\Simple-Calculations\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.pdb
+E:\SoftUni\source\repos\Simple-Calculations\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Calculations\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.exe
+E:\SoftUni\source\repos\Simple-Calculations\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.pdb

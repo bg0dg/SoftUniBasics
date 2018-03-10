@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Complex-Conditions\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.exe.config
+E:\SoftUni\source\repos\Complex-Conditions\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.exe
+E:\SoftUni\source\repos\Complex-Conditions\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.pdb
+E:\SoftUni\source\repos\Complex-Conditions\06. Point on Rectangle Border\obj\Debug\06. Point on Rectangle Border.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Complex-Conditions\06. Point on Rectangle Border\obj\Debug\06. Point on Rectangle Border.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Complex-Conditions\06. Point on Rectangle Border\obj\Debug\_06.Point_on_Rectangle_Border.exe
+E:\SoftUni\source\repos\Complex-Conditions\06. Point on Rectangle Border\obj\Debug\_06.Point_on_Rectangle_Border.pdb

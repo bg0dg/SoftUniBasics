@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple-Conditions\TEST\bin\Debug\TEST.exe.config
+E:\SoftUni\source\repos\Simple-Conditions\TEST\bin\Debug\TEST.exe
+E:\SoftUni\source\repos\Simple-Conditions\TEST\bin\Debug\TEST.pdb
+E:\SoftUni\source\repos\Simple-Conditions\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple-Conditions\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Conditions\TEST\obj\Debug\TEST.exe
+E:\SoftUni\source\repos\Simple-Conditions\TEST\obj\Debug\TEST.pdb

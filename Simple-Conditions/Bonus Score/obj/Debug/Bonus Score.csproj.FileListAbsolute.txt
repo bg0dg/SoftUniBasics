@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Simple-Conditions\Bonus Score\bin\Debug\Bonus Score.exe.config
+E:\SoftUni\source\repos\Simple-Conditions\Bonus Score\bin\Debug\Bonus Score.exe
+E:\SoftUni\source\repos\Simple-Conditions\Bonus Score\bin\Debug\Bonus Score.pdb
+E:\SoftUni\source\repos\Simple-Conditions\Bonus Score\obj\Debug\Bonus Score.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Simple-Conditions\Bonus Score\obj\Debug\Bonus Score.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Simple-Conditions\Bonus Score\obj\Debug\Bonus Score.exe
+E:\SoftUni\source\repos\Simple-Conditions\Bonus Score\obj\Debug\Bonus Score.pdb

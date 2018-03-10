@@ -1,0 +1,14 @@
+C:\Users\DIG\source\repos\Exam - 05 November 2017\04.External Evaluation\bin\Debug\04.External Evaluation.exe.config
+C:\Users\DIG\source\repos\Exam - 05 November 2017\04.External Evaluation\bin\Debug\04.External Evaluation.exe
+C:\Users\DIG\source\repos\Exam - 05 November 2017\04.External Evaluation\bin\Debug\04.External Evaluation.pdb
+C:\Users\DIG\source\repos\Exam - 05 November 2017\04.External Evaluation\obj\Debug\04.External Evaluation.csprojResolveAssemblyReference.cache
+C:\Users\DIG\source\repos\Exam - 05 November 2017\04.External Evaluation\obj\Debug\04.External Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\DIG\source\repos\Exam - 05 November 2017\04.External Evaluation\obj\Debug\04.External Evaluation.exe
+C:\Users\DIG\source\repos\Exam - 05 November 2017\04.External Evaluation\obj\Debug\04.External Evaluation.pdb
+E:\SoftUni\source\repos\Exam - 05 November 2017\04.External Evaluation\bin\Debug\04.External Evaluation.exe.config
+E:\SoftUni\source\repos\Exam - 05 November 2017\04.External Evaluation\bin\Debug\04.External Evaluation.exe
+E:\SoftUni\source\repos\Exam - 05 November 2017\04.External Evaluation\bin\Debug\04.External Evaluation.pdb
+E:\SoftUni\source\repos\Exam - 05 November 2017\04.External Evaluation\obj\Debug\04.External Evaluation.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Exam - 05 November 2017\04.External Evaluation\obj\Debug\04.External Evaluation.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Exam - 05 November 2017\04.External Evaluation\obj\Debug\04.External Evaluation.exe
+E:\SoftUni\source\repos\Exam - 05 November 2017\04.External Evaluation\obj\Debug\04.External Evaluation.pdb

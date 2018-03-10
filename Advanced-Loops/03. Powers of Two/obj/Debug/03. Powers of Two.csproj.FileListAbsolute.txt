@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Advanced-Loops\03. Powers of Two\bin\Debug\_03.Powers_of_Two.exe.config
+E:\SoftUni\source\repos\Advanced-Loops\03. Powers of Two\bin\Debug\_03.Powers_of_Two.exe
+E:\SoftUni\source\repos\Advanced-Loops\03. Powers of Two\bin\Debug\_03.Powers_of_Two.pdb
+E:\SoftUni\source\repos\Advanced-Loops\03. Powers of Two\obj\Debug\03. Powers of Two.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Advanced-Loops\03. Powers of Two\obj\Debug\_03.Powers_of_Two.exe
+E:\SoftUni\source\repos\Advanced-Loops\03. Powers of Two\obj\Debug\_03.Powers_of_Two.pdb
+E:\SoftUni\source\repos\Advanced-Loops\03. Powers of Two\obj\Debug\03. Powers of Two.csprojResolveAssemblyReference.cache

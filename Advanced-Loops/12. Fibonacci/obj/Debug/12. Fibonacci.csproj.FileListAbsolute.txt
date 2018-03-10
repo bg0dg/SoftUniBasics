@@ -1,0 +1,7 @@
+E:\SoftUni\source\repos\Advanced-Loops\12. Fibonacci\bin\Debug\_12.Fibonacci.exe.config
+E:\SoftUni\source\repos\Advanced-Loops\12. Fibonacci\bin\Debug\_12.Fibonacci.exe
+E:\SoftUni\source\repos\Advanced-Loops\12. Fibonacci\bin\Debug\_12.Fibonacci.pdb
+E:\SoftUni\source\repos\Advanced-Loops\12. Fibonacci\obj\Debug\12. Fibonacci.csprojResolveAssemblyReference.cache
+E:\SoftUni\source\repos\Advanced-Loops\12. Fibonacci\obj\Debug\12. Fibonacci.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Advanced-Loops\12. Fibonacci\obj\Debug\_12.Fibonacci.exe
+E:\SoftUni\source\repos\Advanced-Loops\12. Fibonacci\obj\Debug\_12.Fibonacci.pdb

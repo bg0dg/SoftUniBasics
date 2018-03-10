@@ -1,0 +1,6 @@
+E:\SoftUni\source\repos\Drawing Figures with Loops\09. House\bin\Debug\_09.House.exe.config
+E:\SoftUni\source\repos\Drawing Figures with Loops\09. House\bin\Debug\_09.House.exe
+E:\SoftUni\source\repos\Drawing Figures with Loops\09. House\bin\Debug\_09.House.pdb
+E:\SoftUni\source\repos\Drawing Figures with Loops\09. House\obj\Debug\09. House.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\repos\Drawing Figures with Loops\09. House\obj\Debug\_09.House.exe
+E:\SoftUni\source\repos\Drawing Figures with Loops\09. House\obj\Debug\_09.House.pdb
